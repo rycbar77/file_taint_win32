@@ -1,0 +1,6 @@
+.vs/
+pin.log
+pintool.log
+Release/
+obj-ia32/
+Debug/
